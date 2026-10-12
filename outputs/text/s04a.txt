@@ -1,0 +1,5 @@
+     Option  Mass [kg] Comms (nadir)         Science  Excess [kg] Mass OK
+   A: Fixed        2.0            no only if no slew         -3.0     yes
+B: Gimbaled        6.0           yes             yes          1.0      no
+
+mass limit = 5.0 kg; B exceeds by 1.0 kg (20% of the limit)

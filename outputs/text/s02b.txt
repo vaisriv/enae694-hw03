@@ -1,0 +1,4 @@
+psi     = 45 deg
+[L_pol] = 3.0103 dB
+[P_r]   = -122.5103 dBW ~ -122.51 dBW
+Margin  = 0.9897 dB ~ 0.99 dB -> meets threshold

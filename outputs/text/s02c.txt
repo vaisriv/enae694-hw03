@@ -1,0 +1,4 @@
+psi     = 60 deg
+[L_pol] = 6.0206 dB
+[P_r]   = -125.5206 dBW ~ -125.52 dBW
+Margin  = -2.0206 dB ~ -2.02 dB -> fails threshold

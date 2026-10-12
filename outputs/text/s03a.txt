@@ -1,0 +1,8 @@
+ Interval  Gain rel. [dB]  Add. loss [dB]  Margin [dB] Usable
+  0-2 min              -8               4           -7     no
+  2-5 min              -2               1            2    yes
+  5-7 min               0               0            5    yes
+ 7-10 min              -2               1            2    yes
+10-12 min              -8               4           -7     no
+
+usable time = 8 of 12 min -> NOT continuous

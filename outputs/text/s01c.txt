@@ -1,0 +1,5 @@
+D = 0.80 m, f = 15.00 GHz
+d[G] = 20 log10(2) = 6.0206 dB ~ 6.02 dB
+[G]  = 39.3936 dBi ~ 39.39 dBi
+HPBW = 1.7500 deg ~ 1.75 deg
+d[L_fs] = 20 log10(2) = 6.0206 dB (free-space loss also rises)
